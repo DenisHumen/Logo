@@ -12,4 +12,4 @@ echo -e "${YELLOW}||K |||r |||o |||k |||o |||s |||h |||a |||       |||C |||o |||
 echo -e "${YELLOW}||__|||__|||__|||__|||__|||__|||__|||__|||_______|||__|||__|||__|||__|||__|||__||${NORMAL}"
 echo -e "${YELLOW}|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|/__\|/__\|${NORMAL}"
 echo
-echo -e "${YELLOW}KrokoshaComand${NORMAL}"
+echo -e "${YELLOW}Krokosha Comand ${NORMAL}"
